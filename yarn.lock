@@ -1522,6 +1522,21 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@sapphire/string-store@workspace:packages/string-store":
+  version: 0.0.0-use.local
+  resolution: "@sapphire/string-store@workspace:packages/string-store"
+  dependencies:
+    "@favware/cliff-jumper": "npm:^4.0.2"
+    "@vitest/coverage-v8": "npm:^1.6.0"
+    tsup: "npm:^8.1.0"
+    tsx: "npm:^4.16.2"
+    typedoc: "npm:^0.25.13"
+    typedoc-json-parser: "npm:^10.0.0"
+    typescript: "npm:~5.4.5"
+    vitest: "npm:^1.6.0"
+  languageName: unknown
+  linkType: soft
+
 "@sapphire/time-utilities@workspace:packages/time-utilities":
   version: 0.0.0-use.local
   resolution: "@sapphire/time-utilities@workspace:packages/time-utilities"
